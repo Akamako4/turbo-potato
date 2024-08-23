@@ -1,1 +1,1 @@
-ping
+ping www.google.com
